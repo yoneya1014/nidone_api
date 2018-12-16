@@ -1,0 +1,14 @@
+#title{
+    font-size: 3vh!important;
+    margin-top: 5%!important;
+    margin-bottom: 5%!important;
+}
+body{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+.category-label{
+    text-align: left!important;
+}
